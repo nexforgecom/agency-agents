@@ -1,0 +1,25 @@
+title: The Agency - AI Specialists
+description: 55+ Specialized AI Agents for Design, Engineering, Marketing, and More
+baseurl: "/agency-agents"
+url: "https://nexforgecom.github.io"
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+
+search_enabled: true
+
+aux_links:
+  GitHub Repo: https://github.com/nexforgecom/agency-agents
+  Original: https://github.com/msitarzewski/agency-agents
+
+nav_sort: case_insensitive
+heading_anchors: true
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
